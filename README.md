@@ -39,7 +39,7 @@
 	* Beta-Bernoulli Dropout (BBD)
 	* Structured Bayesian Pruning via Log-Normal Multiplicative Noise (SBPD)
 * 위의 세 가지 실험에 대한 코드를 실행한 결과를 제출하세요.
-	* 힌트: 아래 그림을 참고하여 dropout_type 변수를 변경하시면 됩니다. 
+	* 힌트: 코드의 다음 부분을 참조하여 dropout_type 변수를 변경하시면 됩니다. 
 <p align="center"><img src="./fig.jpg" width="500"></p>
 
 
