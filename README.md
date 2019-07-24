@@ -17,8 +17,11 @@
 ### 문제 
 다음 문제에 답하세요.
 	1.  Reparametrization trick을 쓰는 이유?
+	
 	2.  Sparse VD에서 왜 Local reparameterization을 사용하는가?
+	
 	3. Sparse VD에서 왜 sparsity가 유도되는가? 
+	
 	4. Variational dropout의 prior가 log uniform인 이유는?
 
 ### 제출형식 및 배점
