@@ -1,6 +1,7 @@
 # Assignment (황성주 교수님 연구실)
 
 실습 일시: 2019년 7월 24일(수), 14:00 - 17:30
+
 담당조교:신우현 (rico.shin@gmail.com), 이하연 (hayeon926@kaist.ac.kr)
 
 ## 개요
