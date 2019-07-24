@@ -5,8 +5,8 @@
 담당조교: 신우현 (rico.shin@gmail.com), 이하연 (hayeon926@kaist.ac.kr)
 
 ## 개요
-* *과제 A.* 전반부에 진행했던 내용(신우현 조교)은 Quiz 문제에 대한 답을 제출 
-* *과제 B.* 후반부에 진행했던 내용(이하연 조교)은 제공된 코드를 기반으로 실행 결과 제출
+* **과제 A.** 전반부에 진행했던 내용(신우현 조교)은 Quiz 문제에 대한 답을 제출 
+* **과제 B.** 후반부에 진행했던 내용(이하연 조교)은 제공된 코드를 기반으로 실행 결과 제출
 
 ## 제출
 
@@ -38,7 +38,7 @@
 	* Beta-Bernoulli Dropout (BBD)
 	* Structured Bayesian Pruning via Log-Normal Multiplicative Noise (SBPD)
 
-![fig1](./fig.jpg){: width="50%" height="50%"}
+![fig1](./fig.jpg){: width="10%" height="10%"}
  
 * 위 그림과 같이 dropout_type 변수를 변경하여 위의 세가지 실험에 대한 코드를 실행하고 MNIST데이터 셋에 대한 TEST정확도, Lenet-FC (실습에서 사용한 네트워크와 동일한 네트워크)의 활성화된 뉴런의 비율을 조사하고 BBD와 SBPD의 레이어의 sparsity를 시각화 해보세요. 
 
