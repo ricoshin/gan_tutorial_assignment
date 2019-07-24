@@ -38,20 +38,21 @@
 	* Dropout을 사용하지 않는 경우
 	* Beta-Bernoulli Dropout (BBD)
 	* Structured Bayesian Pruning via Log-Normal Multiplicative Noise (SBPD)
-
+* 위의 세 가지 실험에 대한 코드를 실행한 결과를 제출하세요.
+	* 힌트: 아래 그림을 참고하여 dropout_type 변수를 변경하시면 됩니다. 
 <p align="center"><img src="./fig.jpg" width="500"></p>
 
-* 위 그림과 같이 dropout_type 변수를 변경하여 위의 세 가지 실험에 대한 코드를 실행한 결과를 제출하세요.
+
 	
 
 ### 제출형식 및 배점
 
-
-* 타입 변경 한 뒤의 dropout_type 변수와 그때의 training log의 일부분을 캡쳐하여 보고서에 첨부해주세요. (1점)
-* 위 3가지 타입의 (Non) Dropout에 대해 아래 표를 완성하여 보고서에 첨부하세요. (2점)
-	* MNIST데이터 셋에 대한 TEST정확도.
-	* Lenet-FC (실습에서 사용한 네트워크와 동일한 네트워크)의 활성화된 뉴런의 비율을 조사.
-	* BBD와 SBPD의 레이어의 sparsity를 시각화.
+* 아래 내용을 보고서 형식으로 작성하여 제출해주세요.
+	* 타입 변경 한 뒤의 dropout_type 변수와 그때의 training log의 일부분을 캡쳐하여 보고서에 첨부해주세요. (1점)
+	* 위 3가지 타입의 (Non) Dropout에 대해 아래 표를 완성하여 보고서에 첨부하세요. (2점)
+		* MNIST데이터 셋에 대한 TEST정확도.
+		* Lenet-FC (실습에서 사용한 네트워크와 동일한 네트워크)의 활성화된 뉴런의 비율을 조사.
+		* BBD와 SBPD의 레이어의 sparsity를 시각화.
   
 | Model | Test Acc(%) | Layer 1 Memory (%) | Layer 2 Memory (%) | Layer 3 Memory (%) |
 |-------|-------------|--------------------|--------------------|--------------------|
@@ -59,4 +60,4 @@
 | BBD   |             |                    |                    |                    |
 | SBP   |             |                    |                    |                    |
 
-* BBD와 SBPD 레이어의 sparsity를 시각화한 그림을 보고서에 첨부해주세요. (2점)
+	* BBD와 SBPD 레이어의 sparsity를 시각화한 그림을 보고서에 첨부해주세요. (2점)
