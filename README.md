@@ -18,9 +18,9 @@
 다음 문제에 답하세요.
 
 
-	1.  Reparametrization trick을 쓰는 이유?
+	1. Reparametrization trick을 쓰는 이유?
 	
-	2.  Sparse VD에서 왜 Local reparameterization을 사용하는가?
+	2. Sparse VD에서 왜 Local reparameterization을 사용하는가?
 	
 	3. Sparse VD에서 왜 sparsity가 유도되는가? 
 	
@@ -33,11 +33,11 @@
 ## 과제 B
 ### 세부사항 
 * 아래 세가지 타입의 (Non) Dropout 대한 코드가 과제에 첨부되어 있습니다.
-	*	Dropout을 사용하지 않는 경우
+	* Dropout을 사용하지 않는 경우
 	* Beta-Bernoulli Dropout (BBD)
 	* Structured Bayesian Pruning via Log-Normal Multiplicative Noise (SBPD)
 
-![fig1](./fig.jpg){: width="100%" height="100%"}
+![fig1](./fig.jpg){: width="50%" height="50%"}
  
 * 위 그림과 같이 dropout_type 변수를 변경하여 위의 세가지 실험에 대한 코드를 실행하고 MNIST데이터 셋에 대한 TEST정확도, Lenet-FC (실습에서 사용한 네트워크와 동일한 네트워크)의 활성화된 뉴런의 비율을 조사하고 BBD와 SBPD의 레이어의 sparsity를 시각화 해보세요. 
 
