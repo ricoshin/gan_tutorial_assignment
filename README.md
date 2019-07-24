@@ -37,7 +37,7 @@
 	* Beta-Bernoulli Dropout (BBD)
 	* Structured Bayesian Pruning via Log-Normal Multiplicative Noise (SBPD)
 
-![fig1](./fig.jpg =100x)
+![fig1](./fig.jpg | width=100)
  
 * 위 그림과 같이 dropout_type 변수를 변경하여 위의 세가지 실험에 대한 코드를 실행하고 MNIST데이터 셋에 대한 TEST정확도, Lenet-FC (실습에서 사용한 네트워크와 동일한 네트워크)의 활성화된 뉴런의 비율을 조사하고 BBD와 SBPD의 레이어의 sparsity를 시각화 해보세요. 
 
