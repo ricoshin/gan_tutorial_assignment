@@ -16,6 +16,8 @@
 ## 과제 A 
 ### 문제 
 다음 문제에 답하세요.
+
+
 	1.  Reparametrization trick을 쓰는 이유?
 	
 	2.  Sparse VD에서 왜 Local reparameterization을 사용하는가?
