@@ -14,10 +14,12 @@
 * 함께 첨부된 코드의 *TODO* commented 되어 있는 부분을 채워넣어 코드 완성(배포된 코드 참조).
   * 주석으로 위 채워넣은 내용에 의미에 대해 설명을 기재(한글 가능).
 * 돌린 결과에 대한 best qualitative result(생성 이미지)를 붙여넣고 해당 학습 환경을 기재. 
-  * 학습환경? epoch, batchsize, learning rate, etc
+  * 학습환경 예시: epoch, batchsize, learning rate, etc
   * 더 나은 생성 이미지와 함께 학습 환경을 제안해주신 분께는 가산점 부여.
 * 원하시는 텍스트 편집기로 위 내용 순서대로 정렬 후 PDF형식으로 제출.
-* 제출기한은 9월 24일 (수) 20시 입니다. wuhyun.shin@kaist.ac.kr로 제출해주세요.
+* **파일명:** 실습과제_<성함>.pdf
+* **제출기한:** 10월 1일 (화) 21시
+* **제출이메일:** wuhyun.shin@kaist.ac.kr로 제출해주세요.
 
 
 ### 채점기준(10점 만점)
